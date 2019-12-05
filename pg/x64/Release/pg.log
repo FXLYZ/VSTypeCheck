@@ -1,0 +1,5 @@
+﻿  mylexer.cpp
+  myparser.cpp
+C:\Users\曾志韬\Desktop\pg\pg\mylexer.cpp(27,10): fatal error C1083: 无法打开包括文件: “yyclex.h”: No such file or directory
+  正在生成代码...
+C:\Users\曾志韬\Desktop\pg\pg\myparser.cpp(27,10): fatal error C1083: 无法打开包括文件: “yycpars.h”: No such file or directory
